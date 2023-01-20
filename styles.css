@@ -1,6 +1,5 @@
 .grid{
 	height:200px;
-	width:200px;
 	background-color:black;
 	display:grid;
 	grid-template-columns:repeat(2,2fr);
